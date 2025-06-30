@@ -1,1 +1,1 @@
-# Replication for: Arı, E., Bayer, R., & Kemahlıoğlu, Ö. (2024). Breaking the bank: effects of domestic conflict on the banking sector in Turkey. Terrorism and Political Violence, 36(8), 1083-1104. DOI: https://doi.org/10.1080/09546553.2023.2252104
+# Replication for: Arı, E., Bayer, R., & Kemahlıoğlu, Ö. (2024). Breaking the bank: Effects of domestic conflict on the banking sector in Turkey. Terrorism and Political Violence, 36(8), 1083-1104. DOI: https://doi.org/10.1080/09546553.2023.2252104
